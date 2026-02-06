@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "atakan",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e96f57ee-f76c-43b9-b524-798c50011cfe",
+			"database_name": "atakan"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
